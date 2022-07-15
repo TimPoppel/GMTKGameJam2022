@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GMTK2022/Saved/Logs/GMTK2022.log
+GMTK2022/Saved/Config/CrashReportClient/UECC-Windows-71AFBBA2475FA4D330F35B9E662C7656/CrashReportClient.ini
+GMTK2022/Saved/AutoScreenshot.png
+*.bin
